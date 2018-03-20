@@ -6,7 +6,7 @@ while temp>0:
     sum+=x**3
     temp//=10
 if(num==sum):
-    print("it is an armstrong number")
+    print(" yes it is an armstrong number")
 else:
-    print("it is not an armstrong number")
+    print("no it is not an armstrong number")
     
